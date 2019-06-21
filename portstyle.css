@@ -1,0 +1,14 @@
+body{
+	margin-top: 20px;
+	background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+}
+section.homepage{
+    padding: 70px;
+    background-color: transparent; 	
+}
+.my-details{
+	padding-top: 20px;
+	font-size: 20px;
+	font-style: italic;
+	color:white; 
+}
